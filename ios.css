@@ -278,6 +278,7 @@ template {
 .linsk__link,
 .links__link:visited {
   text-decoration: none;
+  word-break: break-word;
   color: #0c79ff;
 }
 
